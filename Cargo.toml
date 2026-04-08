@@ -2,6 +2,9 @@
 name = "mediator-rs"
 version = "0.1.0"
 edition = "2024"
+description = "CQRS-style mediator with type-safe command dispatch and a composable pipeline behavior system"
+license = "MIT"
+repository = "https://github.com/The127/mediator-rs"
 
 [dependencies]
 async-trait = "0.1"
