@@ -17,7 +17,7 @@ handler code. Callers know only the command type; the mediator knows only how to
 
 ```toml
 [dependencies]
-mediator-rs = { path = "..." }  # or publish to crates.io and use version = "..."
+mediator-rs = "0.1"
 async-trait = "0.1"
 ```
 
