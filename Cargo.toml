@@ -1,6 +1,6 @@
 [package]
 name = "mediator-rs"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2024"
 description = "CQRS-style mediator with type-safe command dispatch and a composable pipeline behavior system"
 license = "MIT"
